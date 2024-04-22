@@ -16,24 +16,22 @@ This project was a collaborative effort involving a team of five individuals, in
 Below are some screenshots which will give you the overall look and feel of the website
 
 ### Welcome Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Welcome%20screen.jpg?alt=media&token=10dc1b10-5eb9-47b5-ae30-3d23c2254db5)
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Welcome%20screen.jpg?alt=media&token=10dc1b10-5eb9-47b5-ae30-3d23c2254db5" alt="Welcome Screen" style="height: 450px;">
 
 ### Home Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Home%20screen.jpg?alt=media&token=2eac608d-3fc1-4de2-82cf-e083d9b74bd2)
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Home%20screen.jpg?alt=media&token=2eac608d-3fc1-4de2-82cf-e083d9b74bd2" alt="Home Screen" style="height: 450px;">
 
 ### Restaurant Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Restaurant%20screen.jpg?alt=media&token=1307323b-d4af-4d3b-88f4-9109a5098fe7)
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Restaurant%20screen.jpg?alt=media&token=1307323b-d4af-4d3b-88f4-9109a5098fe7" alt="Restaurant Screen" style="height: 450px;">
 
 ### Restaurant Reviews Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Restaurant%20Reviews%20screen.jpg?alt=media&token=21ded351-9518-4ffe-8d3b-a059730f83c6)
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Restaurant%20Reviews%20screen.jpg?alt=media&token=21ded351-9518-4ffe-8d3b-a059730f83c6" alt="Restaurant Reviews Screen" style="height: 450px;">
 
-### Add a review Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Add%20a%20Review%20screen.jpg?alt=media&token=300a6282-16fb-45f4-8039-fdfcb7d9c7fe)
+### Add a Review Screen
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Add%20a%20Review%20screen.jpg?alt=media&token=300a6282-16fb-45f4-8039-fdfcb7d9c7fe" alt="Add a Review Screen" style="height: 450px;">
 
 ### Order Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Order%20screen.jpg?alt=media&token=12eb94cc-9ec9-4ec6-9c4f-cd7b27e7ec20)
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Order%20screen.jpg?alt=media&token=12eb94cc-9ec9-4ec6-9c4f-cd7b27e7ec20" alt="Order Screen" style="height: 450px;">
 
 ### Profile Screen
-![image](https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Profile%20screen.jpg?alt=media&token=dcf0d7c2-6458-4fdb-9a5e-baf376f3f394)
-
-
+<img src="https://firebasestorage.googleapis.com/v0/b/webt3-8766f.appspot.com/o/DalBites%20images%2FDalbites%20Profile%20screen.jpg?alt=media&token=dcf0d7c2-6458-4fdb-9a5e-baf376f3f394" alt="Profile Screen" style="height: 450px;">
