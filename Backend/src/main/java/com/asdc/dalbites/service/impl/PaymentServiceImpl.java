@@ -18,7 +18,7 @@ public class PaymentServiceImpl implements PaymentService {
 	@Override
 	public Map<String, String> createPaymentIntent(PaymentIntentRequestDTO paymentIntentRequestDTO) throws StripeException {
 		try {
-			Stripe.apiKey = "sk_test_51OE1QOAxY201a6THmRb6QUUvbQGe7Ec36W0jK6wrHlis3nUHLgquwHGslPI3aDrwpblmugDy49EpukU5dmyHzG66002ribyeu9";
+			Stripe.apiKey = "";
 			PaymentIntentCreateParams params = PaymentIntentCreateParams.builder()
         		    .setAmount(1099L)
         		    .setCurrency("cad")
